@@ -1,0 +1,6 @@
+dlib-bin
+opencv-python-headless
+flask
+imutils
+numpy
+gunicorn
